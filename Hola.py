@@ -1,2 +1,2 @@
-x = imput('Hola')
+x = input('Hola')
 print(x)
